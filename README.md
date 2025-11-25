@@ -183,7 +183,7 @@ php artisan test
 
 ## 📹 Click to see it in action
 
-[![Video Thumbnail](https://github.com/user-attachments/assets/ad9f7104-45ae-46ce-b7a1-788f3ffe8202)](www.youtube.com)
+[![Video Thumbnail](https://github.com/user-attachments/assets/ad9f7104-45ae-46ce-b7a1-788f3ffe8202)](https://www.youtube.com/watch?v=HX07dZij_tk)
 
 
 ---
