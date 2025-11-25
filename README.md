@@ -181,9 +181,10 @@ php artisan test
 
 ---
 
-## 📸 Screenshots
+## 📹 Click to see it in action
 
-_(Add your screenshots here)_
+[![Video Thumbnail](https://github.com/user-attachments/assets/ad9f7104-45ae-46ce-b7a1-788f3ffe8202)](www.youtube.com)
+
 
 ---
 
