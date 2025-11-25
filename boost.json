@@ -1,0 +1,12 @@
+{
+    "agents": [
+        "codex",
+        "opencode",
+        "phpstorm"
+    ],
+    "editors": [
+        "phpstorm",
+        "vscode"
+    ],
+    "guidelines": []
+}
